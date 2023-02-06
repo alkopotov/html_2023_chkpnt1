@@ -16,6 +16,7 @@
 .pdg_top_50 { padding-top: 50px; }
 .bkg_pict_lrg { background-image: url(images/priroda.jpg); }
 .bkg_pict_1 { background-image: url(images/forest.jpg); }
+.bkg_pict_2 { background-image: url(images/man.jpg); }
 .bkg_pos {background-position: contain; background-position: center;}
 .wdth_60 { max-width: 60vw; }
 .wdth_50 { max-width: 50vw; }
@@ -29,11 +30,16 @@
 .fl_c { flex-direction: column; }
 .al_cntr { align-items: center; }
 .just_around { justify-content: space-around;}
-.wdth_150 { width: 110%; }
+.wdth_110 { width: 110%; }
 .wdth_100 { width: 100%; }
+.wdth_150 { width: 150%; }
+.wdth_105 { width: 105%; }
 .line_sp { line-height: 1.5;}
 .brdr_btm { border-bottom: 3px solid rgb(145, 190, 162)}
 .wdth_60px {width: 60px; }
 .mrgn_lft_40px {margin-left: 40px;}
-
+.fnt_20 {font-size: 20px;}
+.just_center { justify-content: center;}
+.brd_all { border: 1px solid rgb(145, 190, 162);}
+.hght_250 { height: 250px;}
 
