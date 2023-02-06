@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+button {
+  appearance: none;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 20px;
+}
+.clr_wht {
+  color: white;
+}
+
+.bkg_clr_gr {
+  background-color: rgb(145, 190, 162);
+}
+
+.wdth_60 {
+  max-width: 60vw;
+  margin: auto;
+}
+.pdg_btm_50{
+  padding-bottom: 50px;
+}
+
+.pdg_top_50{
+  padding-top: 50px;
+}
+
+.banner {
+  background-image: url(images/priroda.jpg);
+}
+
+.flx_row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.flx_col {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items:center
+}
+
+.cont_cntr {
+  text-align: center;
+}
